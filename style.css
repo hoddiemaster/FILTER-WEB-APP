@@ -1,0 +1,11 @@
+body{
+    background-image: "image.jpg";
+    text-align: center;
+}
+.label{
+    color:red;
+    font-weight: bold;
+    font-size: 24px;
+    padding: 50%;
+    text-align: center;
+}
